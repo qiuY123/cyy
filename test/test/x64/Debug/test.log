@@ -1,0 +1,10 @@
+﻿  text.c
+D:\vs代码\test\test\text.c(14,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\vs代码\test\test\text.c(14,9): message : 请考虑在格式字符串中使用“%zd”
+D:\vs代码\test\test\text.c(15,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\vs代码\test\test\text.c(15,9): message : 请考虑在格式字符串中使用“%zd”
+D:\vs代码\test\test\text.c(24,12): warning C4047: “函数”:“int *”与“int (*)[10]”的间接级别不同
+D:\vs代码\test\test\text.c(24,8): warning C4024: “test2”: 形参和实参 1 的类型不同
+D:\vs代码\test\test\text.c(25,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\vs代码\test\test\text.c(25,9): message : 请考虑在格式字符串中使用“%zd”
+  test.vcxproj -> D:\vs代码\test\x64\Debug\test.exe
