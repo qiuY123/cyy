@@ -1,0 +1,14 @@
+﻿  text.c
+D:\vs代码\回调函数\回调函数\text.c(54,23): warning C4047: “函数”:“char *”与“char”的间接级别不同
+D:\vs代码\回调函数\回调函数\text.c(54,20): warning C4024: “cul”: 形参和实参 2 的类型不同
+D:\vs代码\回调函数\回调函数\text.c(58,23): warning C4047: “函数”:“char *”与“char”的间接级别不同
+D:\vs代码\回调函数\回调函数\text.c(58,20): warning C4024: “cul”: 形参和实参 2 的类型不同
+D:\vs代码\回调函数\回调函数\text.c(62,23): warning C4047: “函数”:“char *”与“char”的间接级别不同
+D:\vs代码\回调函数\回调函数\text.c(62,20): warning C4024: “cul”: 形参和实参 2 的类型不同
+D:\vs代码\回调函数\回调函数\text.c(66,23): warning C4047: “函数”:“char *”与“char”的间接级别不同
+D:\vs代码\回调函数\回调函数\text.c(66,20): warning C4024: “cul”: 形参和实参 2 的类型不同
+D:\vs代码\回调函数\回调函数\text.c(45,17): warning C4305: “初始化”: 从“int”到“char”截断
+D:\vs代码\回调函数\回调函数\text.c(45,26): warning C4305: “初始化”: 从“int”到“char”截断
+D:\vs代码\回调函数\回调函数\text.c(45,35): warning C4305: “初始化”: 从“int”到“char”截断
+D:\vs代码\回调函数\回调函数\text.c(45,44): warning C4305: “初始化”: 从“int”到“char”截断
+  回调函数.vcxproj -> D:\vs代码\回调函数\x64\Debug\回调函数.exe
