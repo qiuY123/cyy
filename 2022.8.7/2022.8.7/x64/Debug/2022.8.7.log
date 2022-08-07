@@ -1,0 +1,4 @@
+﻿  test.c
+D:\vs代码\2022.8.7\2022.8.7\test.c(24,5): warning C4013: “gets”未定义；假设外部返回 int
+D:\vs代码\2022.8.7\2022.8.7\test.c(25,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  2022.8.7.vcxproj -> D:\vs代码\2022.8.7\x64\Debug\2022.8.7.exe
