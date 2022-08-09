@@ -1,0 +1,4 @@
+﻿  test.c
+D:\vs代码\2022.8.8\2022.8.8\test.c(7,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vs代码\2022.8.8\2022.8.8\test.c(21,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  2022.8.8.vcxproj -> D:\vs代码\2022.8.8\x64\Debug\2022.8.8.exe
