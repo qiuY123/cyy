@@ -1,0 +1,5 @@
+﻿  tree.c
+D:\vs代码\二叉树的实现\二叉树的实现\tree.c(119,3): warning C4033: “CreatreTreeNode”必须返回值
+D:\vs代码\二叉树的实现\二叉树的实现\tree.c(125): warning C4715: “CreatreTreeNode”: 不是所有的控件路径都返回值
+D:\vs代码\二叉树的实现\二叉树的实现\tree.c(185): warning C4716: “MaxNode”: 必须返回一个值
+  二叉树的实现.vcxproj -> D:\vs代码\二叉树的实现\x64\Debug\二叉树的实现.exe
