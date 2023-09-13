@@ -1,0 +1,6 @@
+﻿  test.cpp
+D:\vs代码\2023.9.13\2023.9.13\test.cpp(9,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\vs代码\2023.9.13\2023.9.13\test.cpp(25,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\vs代码\2023.9.13\2023.9.13\test.cpp(41,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\vs代码\2023.9.13\2023.9.13\test.cpp(65,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  2023.9.13.vcxproj -> D:\vs代码\2023.9.13\x64\Debug\2023.9.13.exe
